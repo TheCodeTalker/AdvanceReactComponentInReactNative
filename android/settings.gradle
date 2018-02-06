@@ -1,0 +1,3 @@
+rootProject.name = 'AdvanceReactComponentInReactNative'
+
+include ':app'
